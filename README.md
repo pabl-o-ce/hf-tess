@@ -13,7 +13,7 @@ fullWidth: true
 models:
 - migtissera/Tess-R1-Limerick-Llama-3.1-70B
 - migtissera/Tess-v2.5.2-Qwen2-72B
-short_description: Tess-R1 is designed with capabilities to produce a Chain-of-Thought (CoT).
+short_description: Tess-R1 capabilities to produce a Chain-of-Thought (CoT).
 ---
 # 🔸 HF-Tess
 
