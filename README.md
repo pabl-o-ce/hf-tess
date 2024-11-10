@@ -26,8 +26,8 @@ Tess-Reasoning-1 (Tess-R1) series of models. Tess-R1 is designed with test-time 
 
 - **Chain-of-Thought Reasoning**: Tess-R1 first creates a structured thought process before generating responses
 - **Multiple Model Support**: 
-  - Tess-R1-Limerick-Llama-3.1-70B
-  - Tess-v2.5.2-Qwen2-72B
+  - [Tess-R1-Limerick-Llama-3.1-70B](https://huggingface.co/migtissera/Tess-R1-Limerick-Llama-3.1-70B)
+  - [Tess-v2.5.2-Qwen2-72B](https://huggingface.co/migtissera/Tess-v2.5.2-Qwen2-72B)
 - **Optimized Performance**: Designed with test-time compute efficiency
 - **Interactive Web Interface**: Built with Gradio for easy interaction
 - **Customizable Parameters**:
@@ -92,7 +92,7 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ## 🙏 Acknowledgements
 
-- Model development by [migtissera](https://github.com/migtissera)
+- Model development by [migtissera](https://huggingface.co/migtissera)
 - Built with [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
 - Built with [llama-cpp-agent](https://github.com/Maximilian-Winter/llama-cpp-agent)
 - Hosted on [🤗 HuggingFace Spaces](https://huggingface.co/spaces)
