@@ -8,8 +8,8 @@ from llama_cpp_agent.chat_history import BasicChatHistory
 from llama_cpp_agent.chat_history.messages import Roles
 import gradio as gr
 from huggingface_hub import hf_hub_download
-from lib.ui import css, PLACEHOLDER
-from lib.settings import get_messages_formatter_type
+from utils.ui import css, PLACEHOLDER
+from utils.settings import get_messages_formatter_type
 
 llm = None
 llm_model = None
