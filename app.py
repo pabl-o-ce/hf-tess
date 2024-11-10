@@ -94,14 +94,6 @@ def respond(
         yield outputs
 
 with gr.Blocks() as demo:
-    chatbot = gr.Chatbot(
-            scale=1,
-            placeholder=PLACEHOLDER,
-            likeable=False,
-            sanitize_html=False,
-            render_markdown=False,
-            show_copy_button=True
-        )
     gr.ChatInterface(
         respond,
         additional_inputs=[
@@ -180,7 +172,14 @@ with gr.Blocks() as demo:
         clear_btn="Clear",
         submit_btn="Send",
         description="Llama-cpp-agent: Chat with Tess",
-        chatbot=chatbot
+        chatbot=gr.Chatbot(
+            scale=1,
+            placeholder=PLACEHOLDER,
+            likeable=False,
+            sanitize_html=False,
+            render_markdown=False,
+            show_copy_button=True
+        )
     )
 
 if __name__ == "__main__":
