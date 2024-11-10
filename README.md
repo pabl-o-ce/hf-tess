@@ -19,8 +19,8 @@ short_description: Tess-R1 is designed with test-time compute in mind, and has t
 
 Tess-Reasoning-1 (Tess-R1) series of models. Tess-R1 is designed with test-time compute in mind, and has the capabilities to produce a Chain-of-Thought (CoT) reasoning before producing the final output.
 
-[![Discord](https://img.shields.io/discord/123456789?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/e5tDtxu4)
-[![Open In Spaces](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/pabloce/chat-with-tess)
+[![Discord](https://img.shields.io/discord/123456789?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/KMZ6GdkzPf)
+[![Open In Spaces](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/poscye/chat-with-tess)
 
 ## 🚀 Features
 
@@ -81,7 +81,7 @@ Visit the [HuggingFace Space](https://huggingface.co/spaces/poscye/chat-with-tes
 ## 🤝 Contributing
 
 Feel free to:
-- Join our [Discord community](https://discord.gg/e5tDtxu4)
+- Join our [Discord community](https://discord.gg/KMZ6GdkzPf)
 - Report issues
 - Submit pull requests
 - Share your experiences
