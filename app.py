@@ -93,8 +93,7 @@ def respond(
         outputs += output
         yield outputs
 
-with gr.Blocks() as demo:
-    gr.ChatInterface(
+demo = gr.ChatInterface(
         respond,
         additional_inputs=[
             gr.Dropdown([
