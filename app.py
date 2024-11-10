@@ -176,6 +176,7 @@ demo = gr.ChatInterface(
         placeholder=PLACEHOLDER,
         # likeable=False,
         sanitize_html=False,
+        render_markdown=False,
         show_copy_button=True
     )
 )
