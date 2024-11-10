@@ -8,7 +8,7 @@ on:
 
 env:
   PYTHON_VERSION: '3.12'
-  HF_USERNAME: 'pabloce'
+  HF_USERNAME: 'poscye'
   SPACE_NAME: 'chat-with-tess'
 
 jobs:
